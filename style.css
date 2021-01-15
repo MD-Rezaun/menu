@@ -1,0 +1,7 @@
+h1{ color: blueviolet;}
+u{color: blue;}
+
+.mainmenu{margin:0;padding: 0;list-style: none;}
+.mainmenu a{float: left;border-right:1px solid darkcyan;}
+.mainmenu a li{display: block;padding: 10px;background: burlywood;text-decoration: none;}
+.mainmenu a li:hover{background:#fff;}
